@@ -6,7 +6,9 @@ id: about
 
 ## About me
 
-Describe yourself a bit. 
+Imagine a person in their 30s, full of energy and curiosity. They are tall with a strong build, enjoying long gaming sessions and Magic: The Gathering tournaments. Their eyes light up when talking about coding or gaming. They dress comfortably, often in gaming-themed shirts and casual, relaxed clothing.
+
+They’re passionate about coding games, blending creativity and logic to build immersive experiences. Their home is filled with gaming gear, a vast Magic: The Gathering card collection, and coding books. Whether playing games or coding, they thrive on challenges, always seeking new ways to improve their skills and dive deeper into the digital world.
 
 ### Experience
 **Role** 
@@ -22,8 +24,8 @@ Summary of what you did at the place
 
 ### Education
 
-**Game Creator Programmer** Yrgo 2022 - 2024, Gothenburg
+**Game Creator Programmer** Yrgo 2023 - 2025, Gothenburg
 
-Name of education
-School
-20xx - 20xx, Location
+**Android Engineer**
+Lerum Folkhögskola
+2021 - 2022, Lerum
